@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\3e61c0ec4fbc44a878d8d64fe135b63f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\59c345df37f9a09ade5a810066ebcd38\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.0.aar\97ca2f644fc0780da909c52c2bc9a3a7\AndroidManifest.xml:17:1-24:12
+INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+	package
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:10:5-32
+		INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+		INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:1-40:12
+		INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:9:11-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:13:22-76
+application
+ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:15:5-38:19
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\3e61c0ec4fbc44a878d8d64fe135b63f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\3e61c0ec4fbc44a878d8d64fe135b63f\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\59c345df37f9a09ade5a810066ebcd38\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\59c345df37f9a09ade5a810066ebcd38\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.0.aar\97ca2f644fc0780da909c52c2bc9a3a7\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.0.aar\97ca2f644fc0780da909c52c2bc9a3a7\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:19:9-41
+	android:icon
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:18:9-43
+	android:allowBackup
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:17:9-35
+	android:theme
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:20:9-40
+	android:name
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:16:9-43
+meta-data#com.parse.APPLICATION_ID
+ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:21:9-23:52
+	android:value
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:23:13-49
+	android:name
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:22:13-52
+meta-data#com.parse.CLIENT_KEY
+ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:24:9-26:56
+	android:value
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:26:13-53
+	android:name
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:25:13-48
+activity#com.parse.starter.activity.LoginActivity
+ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:28:9-36:20
+	android:label
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:29:13-51
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:31:13-35:29
+action#android.intent.action.MAIN
+ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:34:17-77
+	android:name
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:34:27-74
+activity#com.parse.starter.activity.MainActivity
+ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:37:9-68
+	android:name
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml:37:19-56
+uses-sdk
+INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\3e61c0ec4fbc44a878d8d64fe135b63f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.2.0] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\appcompat-v7-22.2.0.aar\3e61c0ec4fbc44a878d8d64fe135b63f\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\59c345df37f9a09ade5a810066ebcd38\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\59c345df37f9a09ade5a810066ebcd38\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.0.aar\97ca2f644fc0780da909c52c2bc9a3a7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.2.0] C:\Users\Eduardo\.gradle\caches\transforms-1\files-1.1\support-v4-22.2.0.aar\97ca2f644fc0780da909c52c2bc9a3a7\AndroidManifest.xml:20:5-43
+INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+		ADDED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml
+		INJECTED from D:\InstagramClone\ParseStarterProject\src\main\AndroidManifest.xml

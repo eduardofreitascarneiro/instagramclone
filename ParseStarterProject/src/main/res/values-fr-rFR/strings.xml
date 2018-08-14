@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">InstagramName</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="hello_world">Bonjour le monde</string>
+    <string name="login">S\'identifier</string>
+    <string name="logout">Connectez - Out</string>
+    <string name="parse_app_id">Votre identifiant d\'application</string>
+    <string name="parse_client_key">Votre clé client</string>
+    <string name="typeyourname">Entrez votre nom</string>
+    <string name="typeyourpassword">Entrez votre mot de passe</string>
+    <string name="loginadvice">Vous n\'avez pas de compte? Créez-en un.</string>
+</resources>

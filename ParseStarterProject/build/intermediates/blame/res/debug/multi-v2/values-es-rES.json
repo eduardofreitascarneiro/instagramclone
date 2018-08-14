@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\InstagramClone\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-es-rES\\values-es-rES.xml",
+            "map": [
+                {
+                    "source": "D:\\InstagramClone\\ParseStarterProject\\src\\main\\res\\values-es-rES\\strings.xml",
+                    "from": {
+                        "startLines": "3,2,4,6,11,5,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "109,57,162,264,576,214,314,376,442,505",
+                        "endColumns": "51,50,50,48,72,48,60,64,61,69",
+                        "endOffsets": "156,103,208,308,644,258,370,436,499,570"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,107,158,209,258,331,380,441,506,568",
+                        "endColumns": "51,50,50,48,72,48,60,64,61,69",
+                        "endOffsets": "102,153,204,253,326,375,436,501,563,633"
+                    }
+                }
+            ]
+        }
+    ]
+}
